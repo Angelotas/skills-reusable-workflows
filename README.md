@@ -23,7 +23,7 @@ _Make a workflow reusable, call it in another workflow, and use a matrix strateg
 
 ## Step 4: Merge your changes
 
-_Nicely done! :partying_face:_
+_Nicely done! :partying_face: :partying_face:_
 
 You've added a matrix strategy to your workflow file that is now running on four different versions of node `[14, 16, 18, 20]` instead of the single hard-coded version of only `14`.
 
